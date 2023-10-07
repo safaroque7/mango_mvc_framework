@@ -1,0 +1,12 @@
+{
+    "name": "faroque/mango",
+    "description": "World's simplest PHP MVC Framework",
+    "type": "framwork",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

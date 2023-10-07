@@ -1,0 +1,10 @@
+<ifModule mode_rewrite.c>
+  
+  RewriteEngine On
+
+  
+
+  RewriteRule ^ index.php [QSA,L]
+
+  
+</ifModule>
